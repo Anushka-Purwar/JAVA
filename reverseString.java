@@ -16,7 +16,6 @@ public class reverseString {
             sb.setCharAt(front,back_char);
             sb.setCharAt(back,front_char);
         }
-
         System.out.println(sb);
 
 
